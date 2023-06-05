@@ -1,3 +1,2 @@
 # t1
-
-## feature1をmergeするよ
+## feature2にREADME.mdを書いたよ
